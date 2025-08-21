@@ -1,8 +1,8 @@
-🐍 Snake Game
+# Snake Game
 
 Un petit projet de jeu Snake développé en [Python], pour s’amuser et pratiquer la programmation.
 
-   🎮 Fonctionnalités 
+## Fonctionnalités 
    
    - Déplacement fluide du serpent avec les touches directionnelles
    - Génération aléatoire de la nourriture 🍎
