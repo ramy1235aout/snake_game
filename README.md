@@ -9,3 +9,4 @@ Un petit projet de jeu Snake développé en [Python], pour s’amuser et pratiqu
    - Score qui augmente à chaque pomme mangée
    - Gestion des collisions (mur, corps du serpent)
    - Écran de fin de partie avec le score final
+![Exemple](assets/mongif.gif)
